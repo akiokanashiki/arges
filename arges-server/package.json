@@ -4,6 +4,7 @@
   },
   "dependencies": {
     "apollo-server": "^2.10.1",
-    "graphql": "^14.6.0"
+    "graphql": "^14.6.0",
+    "uuid": "^7.0.1"
   }
 }
